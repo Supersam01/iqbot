@@ -1,0 +1,5 @@
+pip install python-telegram-bot
+python-telegram-bot
+# Optional, but recommended for professional deployment/webhooks:
+# Flask or FastAPI if you switch from Polling to Webhook
+# gunicorn # Production WSGI server
